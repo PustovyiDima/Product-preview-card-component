@@ -106,7 +106,7 @@ picture img {
 }
 
 
-@media (width <=520px) {
+@media (width <=550px) {
 
     picture,
     .product_preview,
